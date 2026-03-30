@@ -1,1 +1,3 @@
 # Testing Strategy
+## Introduction
+Welcome to the topic of testing strategy ! In software engineering a testing strategy is the overall approach used to verify that systems, features and code changes work as expected before the release. It defines how quality will be checked, what types of testing should be used, and how testing fits into the wider development process. This section outlines the purpose of a testing strategy, the key practices that support effective testing, and the common mistakes that should be avoided.
