@@ -12,3 +12,21 @@ These guidelines and good practices are supported by practical engineering write
 -   **Improve the testing process when it becomes a bottleneck**  
     Slack’s engineering write up is a good example of this. Their focus was not simply “do more testing”, but improve the pipeline so engineers were not wasting time on redundant work. That is a useful reminder that testing strategy is also about how tests run in practice, not just what types of tests exist on paper.[Read More](https://slack.engineering/speedup-e2e-testing/ )
     
+## 3. Bad Practices to Avoid
+A testing strategy becomes much less effective when testing is inconsistent, overly manual or treated as something to do at the very end. Sources show that weaker testing habits often lead to the same outcome i.e slower feedback, less confidence in releases, and more defects reaching production.
+
+![tests](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2q1Q4oLdfZDPcClJqR3fzYcgQ481mFCepXQ&s)
+ - **Relying too heavily on manual testing**  
+  Manual testing still has value, but on its own it is difficult to repeat consistently and becomes harder to manage as systems and releases grow.
+-   **Overusing end to end tests**  
+    End to end tests are useful for checking key user journeys, but too many can make the test suite slow, fragile and more difficult to troubleshoot.
+-   **Testing only happy paths**  
+    Focusing only on expected outcomes can leave major gaps in quality. Errors, edge cases and unusual inputs also need to be tested.
+-   **Writing flaky or brittle tests**  
+    Tests that fail randomly or break after small changes reduce trust in the test suite and create unnecessary work for developers.
+-   **Focusing on coverage numbers over test value**  
+    High coverage does not automatically mean effective testing. Tests should be meaningful and should check important behaviour, not just inflate metrics.
+-   **Leaving testing until the end of development**  
+    When testing is delayed until the final stage, issues are often found later, fixes become more rushed, and release confidence is reduced.
+
+These problems appeared repeatedly across the research and show that poor testing strategy is usually not caused by one single issue, but by a combination of weak habits over time.
