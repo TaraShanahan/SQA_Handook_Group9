@@ -1,4 +1,5 @@
-Overview
+# Code Review
+## Introduction
 A code review is the process where a developer’s code is examined by one or more team members before it is merged into the main codebase.
 Instead of allowing individuals to work in isolation, code reviews ensure that all changes are checked, discussed, and improved collaboratively.
 The purpose of a code review is not only to identify bugs, but also to improve the overall quality, readability, and maintainability of the code.
