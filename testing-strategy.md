@@ -3,7 +3,7 @@
 Welcome to the topic of testing strategy ! In software engineering a testing strategy is the overall approach used to verify that systems, features and code changes work as expected before the release. It defines how quality will be checked, what types of testing should be used, and how testing fits into the wider development process. This section outlines the guidlines of a testing strategy, the key practices that support effective testing, and the common mistakes/bad practices that should be avoided.
 ## 2.Testing Strategy Guidelines and Good Practices
 These guidelines and good practices are supported by practical engineering write-ups found online where teams improved their testing strategy after experiencing real delivery and quality problems.
-    **Keep tests stable and worth trusting**  
+ -   **Keep tests stable and worth trusting**  
     A test suite is only useful if developers believe the failures actually mean something. If tests fail randomly or break too easily people start ignoring them. This came through clearly in Google’s discussion of flaky tests and also fits broader practical guidance from teams that focus on maintainability and consistency.[Read More](https://testing.googleblog.com/2016/05/flaky-tests-at-google-and-how-we.html)
 -   **Make tests maintainable as the system grows**  
     Good testing is not just about catching bugs once. Tests also need to stay readable, manageable and easy to update over time. Stack Overflow’s post shows that difficult to test code can hold a team back which makes maintainability part of the testing strategy itself rather than just a coding concern and Gitlabs guidance reinforces that [lower-level](https://gryftec.com/en/low-level-testing/) tests are usually easier to maintain than end-to-end tests, which are more expensive to run and support.[Read More](https://stackoverflow.blog/2022/07/04/how-stack-overflow-is-leveling-up-its-unit-testing-game)
@@ -30,6 +30,7 @@ A testing strategy becomes much less effective when testing is inconsistent, ove
     When testing is delayed until the final stage, issues are often found later, fixes become more rushed, and release confidence is reduced.
 
 These problems appeared or are inferred across the research and show that poor testing strategy is usually not caused by one single issue, but by a combination of weak habits over time.
+
 
 ## 4. What We Learned from the Teams and Sources
 
