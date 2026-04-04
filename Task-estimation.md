@@ -156,6 +156,25 @@ Task estimation is directly connected to software quality.
 ## Key Takeaway
 Task estimation is not about predicting the future perfectly - it is about creating a consistent process that improves planning, teamwork and software quality over time. If your team follows the guidelines on task estimation above and works on your process overtime, you should see a better quality of work produced, reduced burnout. Enabling your team to achieve small successes is the path to a strong and high achieving environment. 
 
+## 5. Further Reading
+
+These sources support the guidelines and insights discussed in this section. They focus on real-world experiences of estimation in Scrum teams, highlighting both effective practices and common challenges. Your team should all have a read of these links to further your understanding on the processes. 
+
+- **Atlassian Agile Guide, Agile Estimation Techniques and Best Practices**  
+  A practical overview of estimation approaches such as story points and planning poker, with a focus on how teams actually use them in real projects.  
+  [Read More](https://www.atlassian.com/agile/project-management/estimation)
+
+- **Mountain Goat Software, Planning Poker and Agile Estimation**  
+  Written by Scrum expert Mike Cohn, this resource explains how planning poker improves team discussion and reduces bias in estimation.  
+  [Read More](https://www.mountaingoatsoftware.com/agile/planning-poker)
+
+- **Scrum.org Blog, Why Estimation is Difficult in Scrum Teams**  
+  Highlights real-world challenges such as uncertainty, inconsistency, and team alignment when estimating work.  
+  [Read More](https://www.scrum.org/resources/blog)
+
+- **Martin Fowler, Agile Software Development and Estimation Challenges**  
+  Discusses broader Agile practices, including the limitations of estimation and why flexibility and iteration are essential.  
+  [Read More](https://martinfowler.com/articles/agile.html)
 
 
 
