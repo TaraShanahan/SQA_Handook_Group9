@@ -4,7 +4,7 @@
 A code review is the process where a developer’s code is examined by one or more team members before it is merged into the main codebase.
 Instead of allowing individuals to work in isolation, code reviews ensure that all changes are checked, discussed, and improved collaboratively.
 The purpose of a code review is not only to identify bugs, but also to improve the overall quality, readability, and maintainability of the code.
-In a fast-moving startup environment, where speed is important, code reviews act as a safety net to prevent defects from reaching production and to maintain consistent standards across the tam.
+In a fast-moving startup environment, where speed is important, code reviews act as a safety net to prevent defects from reaching production and to maintain consistent standards across the team.
 (https://www.computerworld.com/article/1345733) (https://www.holycode.com/blog/code-review-best-practices-and-techniques)
 
 ## Importance of Code Reviews
@@ -64,6 +64,7 @@ Code Review Best Practices from practitioners: https://builtin.com/software-engi
  Code review explanation and techniques: https://www.holycode.com/blog/code-review-best-practices-and-techniques/
  
  How to do and improve code reviews: https://engx.space/global/en/blog/how-to-do-code-review
+
  Best practices including PR size and effective feedback: https://www.codeant.ai/blogs/code-review-process-guide
  
 
