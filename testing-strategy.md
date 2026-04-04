@@ -31,7 +31,7 @@ A testing strategy becomes much less effective when testing is inconsistent, ove
 
 These problems appeared or are inferred across the research and show that poor testing strategy is usually not caused by one single issue, but by a combination of weak habits over time.
 
-
+![test](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/Images/Testing-strategy.png?raw=true)
 ## 4. What We Learned from the Teams and Sources
 
 Looking across the teams and sources used in this section, a few clear lessons stood out. The main one was that good testing strategy is not about having the most tests, but about having tests that are reliable, maintainable and suited to the systems being built. Many of the teams faced similar problems such as flaky tests, too much manual testing, slow pipelines and over reliance on one test layer.
