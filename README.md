@@ -2,7 +2,7 @@
 ## Topics - Quick Find
 - [Task Estimation](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/Task-estimation.md)
 - [Testing Strategy](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/testing-strategy.md)
-- [Code Review]()
+- [Code Review](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/code-review.md)
 
 In a fast-moving startup, everyone is focused on building and delivering features quickly. However, when each developer works in their own way, it can lead to inconsistent results, missed deadlines, and bugs making it into production. This is currently a challenge for our team of 20 engineers, where different approaches to coding, reviewing, and planning have made progress unpredictable.
 
