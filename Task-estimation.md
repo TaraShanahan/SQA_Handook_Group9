@@ -54,7 +54,7 @@ Size focuses on:
 	4. Team discusses the difference
 	5. A final estimate is agreed upon
 
-![Planning Poker](Images/Planning-poker.png)
+![Planning Poker](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/Images/Planning-poker.png?raw=true)
 	
 
 **Why this works:**
