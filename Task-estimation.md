@@ -28,7 +28,7 @@ From a Software Quality perspective:
 	- Identifies risks early
 	- Enables continuous improvement
 **Estimation is How Teams Answer...**
-	- "How long will this take?""
+	- "How long will this take?"
 	- "Can we finish this task in this sprint or over multiple?"
 	- "Are we improving task completion, quality and efficiency over time?"
 
@@ -47,16 +47,18 @@ Size focuses on:
 	- Uncertainty and possible roadblocks
 
 ### 2. Planning Poker (Most Common Method)
-	**Process:**
+**Process:**
 	1. Team reviews a task
 	2. Each developer secretly chooses a number based on how much effort they think is required
 	3. Numbers are all revealed at the same time
 	4. Team discusses the difference
 	5. A final estimate is agreed upon
+
+![Planning Poker](Images/Planning-poker.png)
 	
 
 **Why this works:**
-	-Encourages discussion
+	- Encourages discussion
 	- Reduces bias or peer pressure
 	- Uses whole team knowledge
 
@@ -115,6 +117,8 @@ Estimates become "targets" instead of predictions
 - Ensure all team members follow the same approach 
 
 ## Bad Practices (What you should avoid) 
+
+![Story Points](Images/Story-Point.png)
 
 ### Estimating Alone 
 - Removes team insight 
