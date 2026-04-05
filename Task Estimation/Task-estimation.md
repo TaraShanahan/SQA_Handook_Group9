@@ -118,7 +118,7 @@ Estimates become "targets" instead of predictions
 
 ## Bad Practices (What you should avoid) 
 
-![Story Points](Images/Story-Point.png)
+![Story Points](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/Images/Story-Point.png?raw=true)
 
 ### Estimating Alone 
 - Removes team insight 
