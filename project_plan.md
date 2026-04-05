@@ -69,3 +69,25 @@ The repository will most likely include:
 
 ## Expected Outcome
 By the end of the project, we will have created a practical Markdown handbook with three sections, useful references, team contribution evidence, and a retrospective.
+# Retrospective
+## General Overview
+
+Overall, the project went very well! with strong collaboration, enthusiasm  and clear communication across the team. However, reflecting on our process, there  are some areas where we could improve our approach in future projects.
+
+What went well and what can be improved?
+
+- 1.  Start Research Earlier
+Although we completed all sections on time, starting research earlier would have allowed more time to explore high quality sources and refine our understanding of each topic even further.
+
+- 2.  Gain more confidence in GitHub
+    There was a lot of coordination in making sure we knew where everything was on the repository, and if everything was in the right place.  Eventually, we picked it up fast and helped each other out as a team.
+
+- 3.  Distributing the work
+We would all agree that this all went very well through our regular meetings and communication, we all divided the work between us and got on with it well, asking for guidance and improving our parts with the feedback given to each other.
+
+- 4.  Seamless Communication: We had regular meetings and they were more than just status updates they were open discussions and planning which  helped balance  the workload and we used  each other's feedback to refine each other's contributions in real-time.
+Conclusion:
+
+Overall, this project was completed successfully through strong teamwork, clear communication, and effective collaboration. Tasks were well distributed, and regular discussions helped us stay on track while improving each section through shared feedback.
+The handbook we created provides a clear and practical guide for improving software quality within a team, focusing on consistency, collaboration, and better development practices.
+While there is room for improvement, such as starting research earlier and becoming more confident with GitHub, the team adapted quickly and supported each other throughout the process. This experience has highlighted the importance of working together and following structured practices to produce reliable and high-quality software within the team.
