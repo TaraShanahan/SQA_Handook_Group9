@@ -16,7 +16,7 @@ By reviewing each other’s work, developers are encouraged to write cleaner and
 This collaborative benefit is one of the strongest cultural in the organisations report from adopting regular code reviews.
 (https://builtin.com/software-engineering-perspectives)
 
-![Why Code Review Matters](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/Why-code-review-matters.png?raw=true)
+![Why Code Review Matters](https://github.com/TaraShanahan/SQA_Handook_Group9/blob/main/Images/Why-code-review-matters.png?raw=true)
  ## Review Process
 
 1. A developer writes code on a feature or bug‑fix branch.
